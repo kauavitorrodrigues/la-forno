@@ -1,0 +1,14 @@
+services:
+  db:
+    image: postgres:16-alpine
+    environment:
+      POSTGRES_USER: pizzaria
+      POSTGRES_PASSWORD: pizzaria
+      POSTGRES_DB: pizzaria
+    ports:
+      - "5452:5432"
+    volumes:
+      - postgres_data:/var/lib/postgresql/data
+
+volumes:
+  postgres_data:
