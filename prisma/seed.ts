@@ -62,7 +62,7 @@ async function main() {
                 price: 68,
                 category: "Especiais",
                 imageUrl:
-                    "https://images.unsplash.com/photo-1571407970349-bc81e71e4580?w=480&q=80&auto=format&fit=crop",
+                    "https://images.unsplash.com/photo-1513104890138-7c749659a591?w=480&q=80&auto=format&fit=crop ",
             },
             {
                 name: "Trufa Negra & Cogumelos",
@@ -71,7 +71,7 @@ async function main() {
                 price: 79,
                 category: "Especiais",
                 imageUrl:
-                    "https://images.unsplash.com/photo-1520201163981-8cc9f32a7f87?w=480&q=80&auto=format&fit=crop",
+                    "https://images.unsplash.com/photo-1574071318508-1cdbab80d002?w=480&q=80&auto=format&fit=crop",
             },
             {
                 name: "Primavera",
